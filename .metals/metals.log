@@ -1,0 +1,23 @@
+2022.10.14 08:12:58 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/dennishoang/Documents/se/Astragaloi/.metals/lsp.trace.json or /Users/dennishoang/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.10.14 08:12:58 INFO  logging to file /Users/dennishoang/Documents/se/Astragaloi/.metals/metals.log
+2022.10.14 08:12:58 INFO  Started: Metals version 0.11.9 in workspace '/Users/dennishoang/Documents/se/Astragaloi' for client Visual Studio Code 1.72.1.
+2022.10.14 08:13:00 INFO  time: initialize in 1.6s
+2022.10.14 08:13:04 WARN  Build server is not auto-connectable.
+2022.10.14 08:13:04 WARN  no build tool detected in workspace '/Users/dennishoang/Documents/se/Astragaloi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.14 08:13:04 WARN  no build target for: /Users/dennishoang/Documents/se/Astragaloi/astragaloi/src/main/scala/Main.scala
+2022.10.14 08:13:11 INFO  no build target found for /Users/dennishoang/Documents/se/Astragaloi/astragaloi/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.14 08:13:13 INFO  time: code lens generation in 8.84s
+2022.10.14 08:13:59 ERROR scalafmt: /Users/dennishoang/Documents/se/Astragaloi/astragaloi/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+2022.10.14 08:13:59 WARN  no build target for: /Users/dennishoang/Documents/se/Astragaloi/astragaloi/src/main/scala/Main.scala
+Okt. 14, 2022 8:14:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMATION: Unsupported notification method: $/setTrace
+2022.10.14 08:14:31 ERROR scalafmt: /Users/dennishoang/Documents/se/Astragaloi/astragaloi/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+2022.10.14 08:14:31 WARN  no build target for: /Users/dennishoang/Documents/se/Astragaloi/astragaloi/src/main/scala/Main.scala
+2022.10.14 08:14:42 ERROR scalafmt: /Users/dennishoang/Documents/se/Astragaloi/astragaloi/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+2022.10.14 08:14:42 WARN  no build target for: /Users/dennishoang/Documents/se/Astragaloi/astragaloi/src/main/scala/Main.scala
